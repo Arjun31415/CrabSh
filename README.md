@@ -1,4 +1,4 @@
-# crab_sh
+# CrabSh
 
 A shell wiritten in rust.
 Supports 
